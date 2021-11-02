@@ -67,15 +67,16 @@ One Nation Studios. In Business since 2012. Hundreds of TV projects both local a
 
 
 ### Team Code Repos
-To be completed by Touch Foundry team once we commence the coding part of the project.
+Repos to be added as they are created.
 
-* https://github.com/<your_organisation>
-* https://github.com/<your_organisation>/<project_1>
-* https://github.com/<your_organisation>/<project_2>
+* https://github.com/WorldBox-tv
 
 GitHub accounts of team members.
 
-* TouchFoundry team - Since the cream of our code belongs to our clients the best place to see it in action is through our website showcase:
+* https://github.com/LukeStonehm
+* https://github.com/JonoWorldBox
+
+TouchFoundry team - Since the cream of our code belongs to our clients the best place to see it in action is through our website showcase:
 * https://touchfoundry.co.za/showcases/
 * And our case studies which can be found here.
 * https://touchfoundry.co.za/case-studies/
@@ -100,8 +101,6 @@ Not Applicable
 ### Overview
 
 * **Total Estimated Duration:** 2 years
-* **Full-Time Equivalent (FTE):** To be updated as part of Milestone 2. We need to scope the project as a whole (app, film production and blockchain). Once this is complete we will be able to separate the blockchain elements from the rest and provide an accurate costing and FTE.
-* **Total Costs:** As above (to be updated). Due to the broad scope of the project we will be utilising funds from several sources beyond the Bepro grant.
 
 ### Milestone 1 — Project structure development
 
@@ -164,7 +163,7 @@ Not Applicable
 * **Costs:** TBD
 
 * Create WorldBox DEX - This will contain a single liquidity pool of USDC which can only be swapped for WOX tokens, which are held in various Prize Pool wallets (established for each production built on the system), as well as in user wallets. WOX tokens of a value equivalent to each USDC input are auto-minted and sent to the relevant wallet(s), with said USDC being inserted into the liquidity pool. The DEX needs to keep track of the total circulating supply of WOX tokens and calculate their value according to Total USDC in the liquidity pool. WOX tokens are burnt when swapped for USDC. Incoming transactions (i.e USDC into the pool) are charged a 3% fee, outgoing transactions (i.e. USDC out of pool) are charged 10%. Half of these fees, which are paid in WOX, are sent to the WorldBox Dev wallet, the other half are burned (i.e. removed from total circulating supply).
-* Hold Stage 1 ICO - Backers pre-purchase a limited quantity of WOX tokens which will only be minted and airdropped just before the 1st production goes live. Backers will also be airdropped rare Earning Multiplier NFTs according to their invested amount. (The capital raised from this Stage 1 ICO will be used to fund the pre-production of the first interactive show and develop interactive advertising packages for prospective advertisers. It will also fund elements of App development not covered by the Bepro grant. Funds raised may also be used to attach an A list actor to the project which would substantially increase its marketability.)
+* Hold Stage 1 ICO - Backers pre-purchase a limited quantity of WOX tokens which will only be minted and airdropped just before the 1st production goes live. Backers will also be airdropped rare Earning Multiplier NFTs according to their invested amount.
 
 #### Development roadmap
 > WorldBox DEX - Estimated development time - **40 Days**
@@ -198,7 +197,6 @@ Not Applicable
 
 * Create WorldBox NFT Market. This will be a simple auction system where users can put the various WorldBox NFTs up for auction using WOX as the unit of trade. Only WorldBox Devs would have access to a ‘buy now’ function to sell promotional NFTs at a set price for various productions and promotions.
 * Create NFT template which WorldBox devs can use to create the various NFTs for each production, taking into consideration that the attributes of these NFTs will need to be accessed en masse at the beginning of each episode to calculate various interaction and earning metrics. Artwork for each NFT will be a looping GIF based on content taken from its associated production.
-* Hold Stage 2 ICO - Offering a limited quantity of Tokenized WorldBox profit shares in the form of a profit share NFT. Wallets which hold these NFTs when a snapshot is taken at the close of each broadcast season will receive a share of the WorldBox profits generated during that season from advertising, dex and market revenue. This stage 2 ICO will look to fully fund the first WorldBox production in terms of the typical production process i.e. filming and post production.
 
 #### Development roadmap
 > WorldBox NFT - Estimated development time - **35 Days**
@@ -249,7 +247,7 @@ Not Applicable
 * Sign Interactive Advertising and Broadcast sponsors for first show.
 
 #### Development roadmap
-> WorldBox App - Estimated development time - **365 Days**
+> WorldBox App - Estimated development time - **9 months** - 2 developers
 >
 > Includes unit tests & documentation
 * Root Page - 21 Days
